@@ -1,65 +1,115 @@
+
 .Title{
     font-weight: bold;
-    width: 30%;
-    padding: 20px 20px 60px 20px;
-    
-    
-    color: #999999;
+    width: 100%;
+    font-style: normal;
+    padding: 10px 20px 5px 20px;
+    color: #8b8989;
+    font-size: 130%;
+
 }
 
 .superstar{
     font-weight: bold;
-    width: 30%;
+    width: 100%;
+    padding: 10px 10px 10px 20px;
     color: #0f0f0f;
+    font-size: 130%;
+}
+
+.list{
+    margin-left: 30px;
 }
 
 .container{
     display: flex;
+    padding: 0px 0px 0px 30px;
 }
 
 .picture1 {
-    max-width: 20%;
-    height: auto;
+    padding: 30px;
+    width: 10%;
+    height: 20%;
+    
 }
 .picture2{
     display: flex;
-    max-width: 20%;
+    max-width: 15%;
+    padding: 20px 100px 10px 90px;
 }
 
-.imageone{
-    height: 60px;
-    width: 60px;
+h3{
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 0px;
+    font-size: 150%;
 }
+
 .part1{
-    background-color: #1EBB90;
-    margin: 10px;
+    background-color: white;
+    margin: 30px;
+    margin-top: 15px;
     border-radius: 10px;
-    width: 50%;
+    width: 60%;
+    border: 2px solid rgb(151, 149, 149);
+    padding: 10px;
+    
 }
 
 .part2{
-    background-color: #6b6c6c;
-    margin: 10px;
+    background-color: white;
+    margin: 30px;
+    margin-top: 15px;
+    margin-top: 15px;
     border-radius: 10px;
-    width: 50%;
+    width: 60%;
+    border: 2px solid rgb(151, 149, 149);
+    padding: 10px;
+
 }
 .part3{
-    background-color: #6b6c6c;
-    margin: 10px;
+    background-color: white;
+    margin: 30px;
+    margin-top: 15px;
     border-radius: 10px;
-    width: 50%;
+    width: 60%;
+    border: 2px solid rgb(151, 149, 149);
+    padding: 10px;
 }
 
 .container3{
-    margin: 10px;
+    margin-top: 5px;
     padding: 10px;
-    width: 20%;
-    border: 2px solid grey;
-    box-shadow: 4px 4px 5px lightcoral;
+    width: 90%;
     display: flex;
 }
 .container2{
     display: flex;
-    text-align: center;
     color: rgb(14, 1, 1);
 }
+
+.WebDevelopment{
+    font-size: 130%;
+
+}
+
+.UIDesign{
+    font-size: 130%;
+
+}
+
+.Appdevelopment{
+    font-size: 130%;
+}
+
+.copyright{
+    font-size: 75%;
+    color: #616060;
+}
+
+.paragraph{
+    margin-right: 400px;
+    margin-top: 10px;
+
+}
+
